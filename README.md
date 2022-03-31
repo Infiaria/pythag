@@ -1,0 +1,2 @@
+# pythag
+ Pythagorean Triples, etc.
